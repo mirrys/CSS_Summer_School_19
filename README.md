@@ -3,7 +3,7 @@ Computer Vision Tools for interpretable features
 
 ### Requirements:
 * Python 2.7
-* OPENCV: pip install opencv-python
+* OPENCV: pip install opencv-python==3.3.0.10 (You should be able to use 4, too)
 * Tensorflow: pip install tensorflow==1.14.0 (I have 1.12 but this should work too)
 * Google Vision API: pip install google-cloud-vision
 * Numpy/Math/Matplotlib (probably you have them already)
